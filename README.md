@@ -4,6 +4,8 @@ Hi👋 Here are some beamer templates which are secondary creations of [SINTEF P
 
 ## Colleges & institutes
 
+- Harbin Engineering University
+![HEU](/gallery/HEU.png?raw=true)
 - The Hong Kong Polytechnic University
 ![PolyU](/gallery/PolyU.png?raw=true)
 - Southwest University
